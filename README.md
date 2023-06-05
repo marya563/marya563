@@ -11,7 +11,7 @@
 [![Truffle](https://img.shields.io/badge/Truffle-%238E44AD.svg?style=for-the-badge&logo=truffle&logoColor=white)](https://www.trufflesuite.com/truffle)
 
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=marya563&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=marya563&theme=monokai&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=marya563&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <!--
