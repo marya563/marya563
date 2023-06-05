@@ -26,9 +26,12 @@
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg? 
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 [![Hardhat](https://img.shields.io/badge/Hardhat-%23323330.svg?style=for-the-badge&logo=hardhat&logoColor=white)](https://hardhat.org/)
 [![Truffle](https://img.shields.io/badge/Truffle-%238E44AD.svg?style=for-the-badge&logo=truffle&logoColor=white)](https://www.trufflesuite.com/truffle)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
+
 
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=marya563&theme=monokai&hide_border=false&include_all_commits=true&count_private=false)<br/>
