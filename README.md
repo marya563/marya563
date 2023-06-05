@@ -1,5 +1,5 @@
 ### Hi there 👋
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_text=MyPageVisitors)
+[![](https://visitcount.itsvg.in/api?id=marya563&icon=0&color=0)](https://visitcount.itsvg.in)
 <!--
 **marya563/marya563** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
