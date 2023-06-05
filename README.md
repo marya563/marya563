@@ -1,12 +1,13 @@
-### Hi there 👋
 [![](https://visitcount.itsvg.in/api?id=marya563&icon=0&color=#DC143C)](https://visitcount.itsvg.in)
 
+<h1 align="center">Hi 👋🌝, I'm Marya Belghith </h1>
+### 📱 A **Mobile developer** from **Tunisia** 🇹🇳
 
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=marya563&theme=monokai)
 
+- 📫 How to reach me **marya.belghith@esprit.tn**
 
-# 💻Tech Stack
+# 💻✨ Tech Stack
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -35,8 +36,11 @@
 
 
 # 📊GitHub Stats :
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=marya563&theme=monokai)
 ![](https://github-readme-stats.vercel.app/api?username=marya563&theme=monokai&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=marya563&theme=monokai&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=nizar0rchid&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <!--
 **marya563/marya563** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
