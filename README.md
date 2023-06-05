@@ -3,7 +3,7 @@
 
 
 
-![Animated Contribution](https://github-readme-stats.vercel.app/api/wakatime?marya563=marya563&theme=dark&v=2)
+![Animated Contribution](https://github.com/marya563/github-readme-contributions/blob/master/api/waka-box/README.md)
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=marya563&theme=dark)
 
 
