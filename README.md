@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=marya563&icon=0&color=#DC143C)](https://visitcount.itsvg.in)
 
 <h1 align="center">Hi 🙋‍♀️, I'm Marya Belghith </h1>
-<h3 align="center">📱 Tunisian Mobile Developer 🇹🇳</h3>
+<h3 align="left">📱 Tunisian Mobile Developer 🇹🇳</h3>
 
 
 
