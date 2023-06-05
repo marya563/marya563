@@ -1,13 +1,13 @@
 [![](https://visitcount.itsvg.in/api?id=marya563&icon=0&color=#DC143C)](https://visitcount.itsvg.in)
 
-<h1 align="center">Hi 👋🌝, I'm Marya Belghith </h1>
-### 📱 A **Mobile developer** from **Tunisia** 🇹🇳
+<h1 align="center">Hi 🙋‍♀️, I'm Marya Belghith </h1>
+<h3 align="center">📱 Tunisian Mobile Developer 🇹🇳</h3>
 
 
 
 - 📫 How to reach me **marya.belghith@esprit.tn**
 
-# 💻✨ Tech Stack
+# 👩‍💻✨ Tech Stack
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
